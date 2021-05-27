@@ -10,9 +10,11 @@
   "dependencies": {
     "@apollo/client": "^3.3.19",
     "@vue/apollo-composable": "^4.0.0-alpha.12",
+    "apollo-client": "^2.6.10",
     "graphql": "^15.5.0",
     "netlify-lambda": "^2.0.7",
-    "vue": "^3.1.0-beta.3"
+    "vue": "^3.1.0-beta.3",
+    "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.2",
